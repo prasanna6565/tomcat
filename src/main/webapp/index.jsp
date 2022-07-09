@@ -6,7 +6,7 @@
 <img src="pic_trulli.gif" alt="Trulli" width="400 height="555" class="center">
 
 <audio controls autoplay> 
-  <audio autoplay loop src="rk.mp3" type="audio/mpeg">
+  <audio src="rk.mp3" type="audio/mpeg">
 </audio>
 
 </body>
